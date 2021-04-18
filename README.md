@@ -1,5 +1,5 @@
 # zIOTBP32
-**INTERNET OF THINGS BOILERPLATE FOR ESP23**
+**INTERNET OF THINGS BOILERPLATE FOR ESP32**
 
 *An Arduino compatible IOT boilerplate system for the ESP32 development board. A simple to use drop-in solution for bootstrapping IOT functionality on any ESP32 project.*
 
