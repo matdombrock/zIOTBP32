@@ -1,0 +1,16 @@
+{
+  "cSpell.words": [
+    "APSTA",
+    "RSSI",
+    "ssid"
+  ],
+  "files.associations": {
+    "array": "cpp",
+    "*.tcc": "cpp",
+    "functional": "cpp",
+    "istream": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp",
+    "bitset": "cpp"
+  }
+}
