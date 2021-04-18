@@ -21,7 +21,7 @@ This is a very low abstraction boilerplate to easily get the [ESPAsyncWebServer]
 *Note: This is not a library and is not meant to be installed like a library. This is meant to be copied into your project directory. The files contained in the `zIOTBP32` directory can be customized by advanced users.*
 
 ### Download and install:
-Download this repo and put the `zIOTBP32` folder into your project directory.
+Download this repo and put the `zIOTBP32-master/zIOTBP32` folder into your project directory.
 ```
 your-project/
 --zIOTBP32/
