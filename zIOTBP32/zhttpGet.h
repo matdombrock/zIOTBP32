@@ -2,7 +2,8 @@
 Handles outgoing HTTP GET requests
 Note: You probably don't want to change this file.
 */
-
+#ifndef HTTPGET_H
+#define HTTPGET_H
 #include <HTTPClient.h>
 
 void HTTPGET(String url, int &code, String &pay){
@@ -24,3 +25,4 @@ void HTTPGET(String url, int &code, String &pay){
 
   http.end(); //Free the resources
 }
+#endif
